@@ -132,6 +132,10 @@ h3 {
   margin-top: 10px;
 }
 
+.project-links.single-link {
+  justify-content: center;
+}
+
 .project-links a {
   color: #266DD3;
   font-size: 20px;
