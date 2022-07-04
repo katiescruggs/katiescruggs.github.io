@@ -5,7 +5,7 @@ import Blog from "./components/Blog";
 export default function App() {
   return (
     <div>
-      <h1>Bookkeeper!</h1>
+      <h1>Katie Scruggs</h1>
       <nav 
         style={{borderBottom: "solid 1px", paddingBottom: "1rem",}}>
           <Link to="/gauge">Gauge</Link>
